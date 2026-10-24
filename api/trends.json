@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T03:16:43.925107+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-10-25T04:08:56.803423+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 DeepSeek",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
         },
         {
           "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
         },
         {
           "title": "B站肥鱼成灾,AI评论泛滥",
@@ -38,20 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
-        },
-        {
-          "title": "当AI开始写代码，还需要什么样的程序员？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34225156",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
         },
         {
           "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
@@ -59,11 +47,25 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
+        },
+        {
+          "title": "当AI开始写代码，还需要什么样的程序员？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34225156",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
         },
         {
           "title": "“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI",
@@ -71,11 +73,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
         },
         {
           "title": "《AIGC时代互联网广告治理蓝皮书》发布，倡导“以AI治AI”",
@@ -85,19 +88,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
         },
         {
           "title": "38美元，DeepSeek算了一笔赚钱的账",
           "url": "https://wallstreetcn.com/articles/3784386",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
+        },
+        {
+          "title": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3784379",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
         },
         {
           "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
@@ -108,19 +124,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
-        },
-        {
-          "title": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3784379",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
         },
         {
           "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
@@ -130,8 +135,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
         },
         {
           "title": "“AI缺钱”重构产业叙事 市场不再相信“烧钱就能赢”",
@@ -141,8 +146,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
         },
         {
           "title": "字节AI应用再整合：小云雀并入即梦",
@@ -152,8 +157,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
         },
         {
           "title": "曝DeepSeek完成千亿融资",
@@ -163,8 +168,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
         },
         {
           "title": "《过来人》和Yuri：两场AI音乐试验都在守“人味”",
@@ -177,6 +182,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 02时11分]"
+        },
+        {
+          "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
+          "url": "https://wallstreetcn.com/articles/3784381",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
         },
         {
           "title": "AI泡沫或在2028年初破裂",
@@ -203,8 +219,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
         },
         {
           "title": "黄霄雲重庆演唱会",
@@ -214,25 +230,12 @@
             30,
             22,
             17,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
-        },
-        {
-          "title": "王嘉尔上海演唱会两天连唱",
-          "url": "https://www.douyin.com/hot/2711747",
-          "source": "抖音",
-          "ranks": [
-            18,
-            26,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
         },
         {
           "title": "李荣浩衡阳演唱会",
@@ -243,8 +246,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
         },
         {
           "title": "潘玮柏南京演唱会",
@@ -253,11 +256,12 @@
           "ranks": [
             21,
             19,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
         },
         {
           "title": "王俊凯演唱会王子造型开场",
@@ -265,6 +269,20 @@
           "source": "百度热搜",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
+        },
+        {
+          "title": "王嘉尔上海演唱会两天连唱",
+          "url": "https://www.douyin.com/hot/2711747",
+          "source": "抖音",
+          "ranks": [
+            18,
+            26,
+            27,
+            30
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -297,7 +315,7 @@
     },
     {
       "keyword_group": "短剧 大结局 全集",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "短剧女王王小亿红毯状态",
@@ -307,8 +325,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
+        },
+        {
+          "title": "俄乌冲突大结局要来了吗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E5%A4%A7%E7%BB%93%E5%B1%80%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
         }
       ]
     },
@@ -324,8 +353,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
         }
       ]
     },
@@ -341,8 +370,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时08分]"
         }
       ]
     },
