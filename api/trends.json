@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T02:11:46.199611+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-10-25T03:16:43.925107+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         },
         {
           "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         },
         {
           "title": "B站肥鱼成灾,AI评论泛滥",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         },
         {
           "title": "当AI开始写代码，还需要什么样的程序员？",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         },
         {
           "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
@@ -62,19 +62,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         },
         {
           "title": "“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI",
           "url": "https://wallstreetcn.com/articles/3784388",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         },
         {
           "title": "《AIGC时代互联网广告治理蓝皮书》发布，倡导“以AI治AI”",
@@ -84,8 +85,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         },
         {
           "title": "38美元，DeepSeek算了一笔赚钱的账",
@@ -95,8 +96,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         },
         {
           "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
@@ -107,8 +108,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         },
         {
           "title": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
@@ -118,8 +119,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         },
         {
           "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
@@ -129,8 +130,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         },
         {
           "title": "“AI缺钱”重构产业叙事 市场不再相信“烧钱就能赢”",
@@ -140,20 +141,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
-        },
-        {
-          "title": "《过来人》和Yuri：两场AI音乐试验都在守“人味”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34317944",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         },
         {
           "title": "字节AI应用再整合：小云雀并入即梦",
@@ -163,8 +152,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         },
         {
           "title": "曝DeepSeek完成千亿融资",
@@ -172,6 +161,18 @@
           "source": "贴吧",
           "ranks": [
             26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
+        },
+        {
+          "title": "《过来人》和Yuri：两场AI音乐试验都在守“人味”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34317944",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -202,8 +203,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         },
         {
           "title": "黄霄雲重庆演唱会",
@@ -212,11 +213,12 @@
           "ranks": [
             30,
             22,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         },
         {
           "title": "王嘉尔上海演唱会两天连唱",
@@ -225,11 +227,12 @@
           "ranks": [
             18,
             26,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         },
         {
           "title": "李荣浩衡阳演唱会",
@@ -240,8 +243,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         },
         {
           "title": "潘玮柏南京演唱会",
@@ -253,8 +256,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         },
         {
           "title": "王俊凯演唱会王子造型开场",
@@ -264,8 +267,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         },
         {
           "title": "张智霖佛山演唱会",
@@ -304,8 +307,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         }
       ]
     },
@@ -321,8 +324,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         }
       ]
     },
@@ -338,8 +341,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时16分]"
         }
       ]
     },
