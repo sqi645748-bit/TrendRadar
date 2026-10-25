@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T09:24:50.833975+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-10-25T10:18:26.696775+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 DeepSeek",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时18分]"
         },
         {
           "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时18分]"
         },
         {
           "title": "B站肥鱼成灾,AI评论泛滥",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时18分]"
         },
         {
           "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
@@ -51,11 +51,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时18分]"
         },
         {
           "title": "“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI",
@@ -65,11 +66,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时18分]"
         },
         {
           "title": "当AI开始写代码，还需要什么样的程序员？",
@@ -79,11 +81,12 @@
             4,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时18分]"
         },
         {
           "title": "38美元，DeepSeek算了一笔赚钱的账",
@@ -96,8 +99,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时18分]"
+        },
+        {
+          "title": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3784379",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时18分]"
         },
         {
           "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
@@ -110,22 +128,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时24分]"
-        },
-        {
-          "title": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3784379",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时18分]"
         },
         {
           "title": "《AIGC时代互联网广告治理蓝皮书》发布，倡导“以AI治AI”",
@@ -133,11 +137,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 09时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 10时18分]"
         },
         {
           "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
@@ -148,8 +153,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时18分]"
         },
         {
           "title": "“AI缺钱”重构产业叙事 市场不再相信“烧钱就能赢”",
@@ -172,8 +177,22 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时18分]"
+        },
+        {
+          "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
+          "url": "https://wallstreetcn.com/articles/3784381",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时08分 ~ 10时18分]"
         },
         {
           "title": "字节AI应用再整合：小云雀并入即梦",
@@ -187,8 +206,8 @@
           "time_info": "[00时14分 ~ 08时09分]"
         },
         {
-          "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
-          "url": "https://wallstreetcn.com/articles/3784381",
+          "title": "AI交易崩盘，Anthropic会推迟\"超级IPO\"吗？距离11月中旬\"预定上市日期\"不远了",
+          "url": "https://wallstreetcn.com/articles/3784380",
           "source": "华尔街见闻",
           "ranks": [
             10,
@@ -196,31 +215,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时08分 ~ 09时24分]"
+          "appearance_count": 5,
+          "time_info": "[07时11分 ~ 10时18分]"
         },
         {
           "title": "清华数学教授如何反思AI冲击",
           "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E6%95%B0%E5%AD%A6%E6%95%99%E6%8E%88%E5%A6%82%E4%BD%95%E5%8F%8D%E6%80%9DAI%E5%86%B2%E5%87%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "AI交易崩盘，Anthropic会推迟\"超级IPO\"吗？距离11月中旬\"预定上市日期\"不远了",
-          "url": "https://wallstreetcn.com/articles/3784380",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时11分 ~ 09时24分]"
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 10时18分]"
         },
         {
           "title": "《过来人》和Yuri：两场AI音乐试验都在守“人味”",
@@ -245,6 +253,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 05时11分]"
+        },
+        {
+          "title": "环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调",
+          "url": "https://www.cls.cn/detail/2514275",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
         },
         {
           "title": "媒体人评过来人AI歌曲",
@@ -274,8 +293,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时18分]"
         },
         {
           "title": "王俊凯演唱会王子造型开场",
@@ -375,6 +394,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "UP主自制大肥鱼游戏",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 10时18分]"
+        },
+        {
           "title": "婚姻是强者的游戏不是弱者的避风港",
           "url": "https://s.weibo.com/weibo?q=%E5%A9%9A%E5%A7%BB%E6%98%AF%E5%BC%BA%E8%80%85%E7%9A%84%E6%B8%B8%E6%88%8F%E4%B8%8D%E6%98%AF%E5%BC%B1%E8%80%85%E7%9A%84%E9%81%BF%E9%A3%8E%E6%B8%AF&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -393,18 +424,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "UP主自制大肥鱼游戏",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         }
@@ -484,8 +504,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时18分]"
         }
       ]
     },
