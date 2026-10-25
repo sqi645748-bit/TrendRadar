@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T11:17:32.410140+08:00",
-  "total_titles_processed": 747,
+  "generated_at": "2026-10-25T12:20:27.656991+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 DeepSeek",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 12时20分]"
         },
         {
           "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
@@ -44,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 12时20分]"
         },
         {
           "title": "“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI",
@@ -60,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 12时20分]"
         },
         {
           "title": "B站肥鱼成灾,AI评论泛滥",
@@ -70,11 +70,12 @@
           "ranks": [
             3,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 12时20分]"
         },
         {
           "title": "38美元，DeepSeek算了一笔赚钱的账",
@@ -88,8 +89,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 12时20分]"
         },
         {
           "title": "当AI开始写代码，还需要什么样的程序员？",
@@ -118,8 +119,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时08分 ~ 11时17分]"
+          "appearance_count": 10,
+          "time_info": "[04时08分 ~ 12时20分]"
+        },
+        {
+          "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
+          "url": "https://www.cls.cn/detail/2514247",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 12时20分]"
         },
         {
           "title": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
@@ -137,20 +153,6 @@
           "time_info": "[00时14分 ~ 10时18分]"
         },
         {
-          "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
-          "url": "https://www.cls.cn/detail/2514247",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时17分]"
-        },
-        {
           "title": "《AIGC时代互联网广告治理蓝皮书》发布，倡导“以AI治AI”",
           "url": "https://wallstreetcn.com/livenews/3185149",
           "source": "华尔街见闻-快讯",
@@ -158,11 +160,12 @@
             7,
             12,
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 11时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 12时20分]"
         },
         {
           "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
@@ -174,8 +177,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 12时20分]"
         },
         {
           "title": "“AI缺钱”重构产业叙事 市场不再相信“烧钱就能赢”",
@@ -199,8 +202,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 12时20分]"
         },
         {
           "title": "字节AI应用再整合：小云雀并入即梦",
@@ -240,6 +243,18 @@
           "time_info": "[09时24分 ~ 10时18分]"
         },
         {
+          "title": "环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调",
+          "url": "https://www.cls.cn/detail/2514275",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时18分 ~ 12时20分]"
+        },
+        {
           "title": "《过来人》和Yuri：两场AI音乐试验都在守“人味”",
           "url": "https://m.thepaper.cn/newsDetail_forward_34317944",
           "source": "澎湃新闻",
@@ -250,18 +265,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 02时11分]"
-        },
-        {
-          "title": "环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调",
-          "url": "https://www.cls.cn/detail/2514275",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时18分 ~ 11时17分]"
         },
         {
           "title": "AI泡沫或在2028年初破裂",
@@ -276,13 +279,24 @@
           "time_info": "[00时14分 ~ 05时11分]"
         },
         {
+          "title": "陶哲轩称 AI 的数学成果称把解题当基准测试，犹如抛出「有毒废料」，如何看待这一评价？",
+          "url": "https://www.zhihu.com/question/2096913276739367170",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "国务院发文减缓AI抢饭碗冲击",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8F%91%E6%96%87%E5%87%8F%E7%BC%93AI%E6%8A%A2%E9%A5%AD%E7%A2%97%E5%86%B2%E5%87%BB%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         },
@@ -314,8 +328,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 12时20分]"
         },
         {
           "title": "王俊凯演唱会王子造型开场",
@@ -402,11 +416,12 @@
           "url": "https://www.toutiao.com/trending/7700097968971481130/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 12时20分]"
         },
         {
           "title": "庾澄庆北京演唱会",
@@ -422,6 +437,47 @@
       ]
     },
     {
+      "keyword_group": "短剧 大结局 全集",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "短剧女王王小亿红毯状态",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E5%A5%B3%E7%8E%8B%E7%8E%8B%E5%B0%8F%E4%BA%BF%E7%BA%A2%E6%AF%AF%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 07时11分]"
+        },
+        {
+          "title": "俄乌冲突大结局要来了吗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E5%A4%A7%E7%BB%93%E5%B1%80%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时08分 ~ 12时20分]"
+        },
+        {
+          "title": "柯淳李柯以短剧顶流首搭",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B7%B3%E6%9D%8E%E6%9F%AF%E4%BB%A5%E7%9F%AD%E5%89%A7%E9%A1%B6%E6%B5%81%E9%A6%96%E6%90%AD%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "游戏",
       "match_count": 3,
       "titles": [
@@ -431,11 +487,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 10时18分]"
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 12时20分]"
         },
         {
           "title": "婚姻是强者的游戏不是弱者的避风港",
@@ -463,31 +520,34 @@
       ]
     },
     {
-      "keyword_group": "短剧 大结局 全集",
+      "keyword_group": "考研 考公 四六级 真题 网课",
       "match_count": 2,
       "titles": [
         {
-          "title": "短剧女王王小亿红毯状态",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E5%A5%B3%E7%8E%8B%E7%8E%8B%E5%B0%8F%E4%BA%BF%E7%BA%A2%E6%AF%AF%E7%8A%B6%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 07时11分]"
-        },
-        {
-          "title": "俄乌冲突大结局要来了吗",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E5%A4%A7%E7%BB%93%E5%B1%80%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97",
+          "title": "刘晓艳 从四六级到科切拉",
+          "url": "https://search.bilibili.com/all?keyword=%E5%88%98%E6%99%93%E8%89%B3%20%E4%BB%8E%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%88%B0%E7%A7%91%E5%88%87%E6%8B%89",
           "source": "bilibili 热搜",
           "ranks": [
-            25,
-            29
+            30,
+            28,
+            26,
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 06时12分]"
+          "appearance_count": 6,
+          "time_info": "[05时11分 ~ 11时17分]"
+        },
+        {
+          "title": "刘晓艳 从四六级到跳车摇",
+          "url": "https://search.bilibili.com/all?keyword=%E5%88%98%E6%99%93%E8%89%B3%20%E4%BB%8E%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%88%B0%E8%B7%B3%E8%BD%A6%E6%91%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         }
       ]
     },
@@ -539,27 +599,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时14分 ~ 11时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "考研 考公 四六级 真题 网课",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "刘晓艳 从四六级到科切拉",
-          "url": "https://search.bilibili.com/all?keyword=%E5%88%98%E6%99%93%E8%89%B3%20%E4%BB%8E%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%88%B0%E7%A7%91%E5%88%87%E6%8B%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            28,
-            26,
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时11分 ~ 11时17分]"
         }
       ]
     }
