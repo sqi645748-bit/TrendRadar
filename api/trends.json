@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T13:18:18.599587+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-10-25T14:16:59.895739+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 DeepSeek",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 13时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 14时16分]"
         },
         {
           "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
@@ -44,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 13时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 14时16分]"
         },
         {
           "title": "“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI",
@@ -60,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 13时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 14时16分]"
         },
         {
           "title": "38美元，DeepSeek算了一笔赚钱的账",
@@ -105,8 +105,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 13时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 14时16分]"
         },
         {
           "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
@@ -120,8 +120,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时08分 ~ 13时18分]"
+          "appearance_count": 13,
+          "time_info": "[04时08分 ~ 14时16分]"
         },
         {
           "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
@@ -135,8 +135,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 13时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 14时16分]"
         },
         {
           "title": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
@@ -163,11 +163,12 @@
             15,
             16,
             19,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 13时18分]"
+          "appearance_count": 15,
+          "time_info": "[00时14分 ~ 14时16分]"
         },
         {
           "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
@@ -179,8 +180,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 13时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 14时16分]"
         },
         {
           "title": "“AI缺钱”重构产业叙事 市场不再相信“烧钱就能赢”",
@@ -191,8 +192,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 14时16分]"
         },
         {
           "title": "曝DeepSeek完成千亿融资",
@@ -249,11 +250,35 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时18分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[10时18分 ~ 14时16分]"
+        },
+        {
+          "title": "AI大肥鱼自主运营B站",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E8%82%A5%E9%B1%BC%E8%87%AA%E4%B8%BB%E8%BF%90%E8%90%A5B%E7%AB%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "陶哲轩称 AI 的数学成果称把解题当基准测试，犹如抛出「有毒废料」，如何看待这一评价？",
+          "url": "https://www.zhihu.com/question/2096913276739367170",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 14时16分]"
         },
         {
           "title": "清华数学教授如何反思AI冲击",
@@ -268,16 +293,28 @@
           "time_info": "[09时24分 ~ 10时18分]"
         },
         {
-          "title": "陶哲轩称 AI 的数学成果称把解题当基准测试，犹如抛出「有毒废料」，如何看待这一评价？",
-          "url": "https://www.zhihu.com/question/2096913276739367170",
-          "source": "知乎",
+          "title": "AI歌曲《过来人》爆火",
+          "url": "https://www.baidu.com/s?wd=AI%E6%AD%8C%E6%9B%B2%E3%80%8A%E8%BF%87%E6%9D%A5%E4%BA%BA%E3%80%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            8
+            16,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时20分 ~ 13时18分]"
+          "time_info": "[13时17分 ~ 14时16分]"
+        },
+        {
+          "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34326151",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 14时16分]"
         },
         {
           "title": "《过来人》和Yuri：两场AI音乐试验都在守“人味”",
@@ -290,28 +327,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 02时11分]"
-        },
-        {
-          "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34326151",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时18分]"
-        },
-        {
-          "title": "AI歌曲《过来人》爆火",
-          "url": "https://www.baidu.com/s?wd=AI%E6%AD%8C%E6%9B%B2%E3%80%8A%E8%BF%87%E6%9D%A5%E4%BA%BA%E3%80%8B%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时18分]"
         },
         {
           "title": "AI泡沫或在2028年初破裂",
@@ -335,6 +350,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
+          "title": "AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能",
+          "url": "https://wallstreetcn.com/articles/3784397",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         },
         {
           "title": "国务院发文减缓AI抢饭碗冲击",
@@ -372,11 +398,12 @@
             19,
             20,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 13时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 14时16分]"
         },
         {
           "title": "王俊凯演唱会王子造型开场",
@@ -479,8 +506,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 14时16分]"
         },
         {
           "title": "庾澄庆北京演唱会",
@@ -516,11 +543,12 @@
           "source": "微博",
           "ranks": [
             19,
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时20分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 14时16分]"
         },
         {
           "title": "俄乌冲突大结局要来了吗",
@@ -549,11 +577,12 @@
             25,
             6,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时24分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[09时24分 ~ 14时16分]"
         },
         {
           "title": "婚姻是强者的游戏不是弱者的避风港",
@@ -605,11 +634,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时20分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 14时16分]"
         }
       ]
     },
