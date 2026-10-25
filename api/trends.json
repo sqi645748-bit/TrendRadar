@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T01:15:40.274604+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-10-26T02:41:27.246318+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 DeepSeek",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时41分]"
         },
         {
           "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
@@ -27,30 +27,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时41分]"
         },
         {
           "title": "AI交易何时止跌？市场盯着Meta“天量发债”背后的“囚徒困境”",
           "url": "https://wallstreetcn.com/articles/3784405",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
-        },
-        {
-          "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34326151",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时41分]"
         },
         {
           "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
@@ -60,8 +50,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时41分]"
+        },
+        {
+          "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34326151",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时41分]"
         },
         {
           "title": "野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定",
@@ -72,8 +74,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时41分]"
         },
         {
           "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？",
@@ -84,8 +86,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时41分]"
         },
         {
           "title": "首部AI院线电影，票房过百万",
@@ -93,11 +95,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时41分]"
         },
         {
           "title": "环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调",
@@ -107,8 +110,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时41分]"
         },
         {
           "title": "上海国家会计学院：AI时代企业更需要将技术与财务有机结合",
@@ -116,11 +119,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时41分]"
         },
         {
           "title": "央视批AI魔改经典名著",
@@ -130,8 +134,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时41分]"
         },
         {
           "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
@@ -141,8 +145,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时41分]"
         },
         {
           "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
@@ -152,8 +156,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时41分]"
         },
         {
           "title": "DeepSeek到底怎么得罪了美国",
@@ -161,11 +165,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时41分]"
         },
         {
           "title": "7家科创板公司同日亮成绩单：AI产业链业绩高增，创新药械接力",
@@ -173,11 +178,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时41分]"
         },
         {
           "title": "B站肥鱼成灾,AI评论泛滥",
@@ -187,19 +193,31 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时41分]"
         },
         {
           "title": "丈母娘也开始抢AI人了",
           "url": "https://www.baidu.com/s?wd=%E4%B8%88%E6%AF%8D%E5%A8%98%E4%B9%9F%E5%BC%80%E5%A7%8B%E6%8A%A2AI%E4%BA%BA%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时41分]"
+        },
+        {
+          "title": "日本软银计划计划在马来西亚投资500亿美元发展人工智能（AI）。",
+          "url": "https://wallstreetcn.com/livenews/3185242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时15分"
+          "time_info": "02时41分"
         }
       ]
     },
@@ -212,22 +230,24 @@
           "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E5%88%9A%E7%BB%93%E6%9D%9F%E5%B0%B1%E5%9B%9E%E5%A4%8D%E4%BA%86%E5%8F%B2%E5%BD%AD%E5%85%83%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            15
+            15,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时41分]"
         },
         {
           "title": "蔡徐坤新加坡演唱会",
           "url": "https://www.douyin.com/hot/2712328",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时41分]"
         },
         {
           "title": "张智霖演唱会因好友离世痛哭",
@@ -236,7 +256,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         }
@@ -254,8 +274,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时41分]"
         },
         {
           "title": "杨幂拉弓像从游戏里走出来",
@@ -265,8 +285,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时41分]"
         }
       ]
     },
@@ -280,11 +300,12 @@
           "source": "抖音",
           "ranks": [
             18,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时41分]"
         }
       ]
     },
@@ -298,11 +319,12 @@
           "source": "微博",
           "ranks": [
             5,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时41分]"
         }
       ]
     }
