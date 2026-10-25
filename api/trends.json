@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T21:23:20.018164+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2026-10-25T22:14:02.262624+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 DeepSeek",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时14分 ~ 21时23分]"
+          "appearance_count": 30,
+          "time_info": "[00时14分 ~ 22时14分]"
         },
         {
           "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
@@ -116,11 +116,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时13分 ~ 21时23分]"
+          "appearance_count": 12,
+          "time_info": "[16时13分 ~ 22时14分]"
         },
         {
           "title": "AI交易何时止跌？市场盯着Meta“天量发债”背后的“囚徒困境”",
@@ -134,8 +135,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时27分 ~ 21时23分]"
+          "appearance_count": 13,
+          "time_info": "[15时27分 ~ 22时14分]"
         },
         {
           "title": "B站肥鱼成灾,AI评论泛滥",
@@ -150,11 +151,46 @@
             11,
             12,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时14分 ~ 21时23分]"
+          "appearance_count": 30,
+          "time_info": "[00时14分 ~ 22时14分]"
+        },
+        {
+          "title": "央视曝AI人哭着卖惨带货",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9DAI%E4%BA%BA%E5%93%AD%E7%9D%80%E5%8D%96%E6%83%A8%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            8,
+            5,
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时15分 ~ 22时14分]"
+        },
+        {
+          "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34326151",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            11,
+            10,
+            9,
+            7,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[13时17分 ~ 22时14分]"
         },
         {
           "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
@@ -168,8 +204,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时14分 ~ 21时23分]"
+          "appearance_count": 30,
+          "time_info": "[00时14分 ~ 22时14分]"
         },
         {
           "title": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
@@ -197,26 +233,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时27分 ~ 21时23分]"
-        },
-        {
-          "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34326151",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            11,
-            10,
-            9,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时17分 ~ 21时23分]"
+          "appearance_count": 13,
+          "time_info": "[15时27分 ~ 22时14分]"
         },
         {
           "title": "《AIGC时代互联网广告治理蓝皮书》发布，倡导“以AI治AI”",
@@ -250,8 +268,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时18分 ~ 21时23分]"
+          "appearance_count": 19,
+          "time_info": "[10时18分 ~ 22时14分]"
         },
         {
           "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
@@ -306,20 +324,6 @@
           "time_info": "[00时14分 ~ 12时20分]"
         },
         {
-          "title": "央视曝AI人哭着卖惨带货",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9DAI%E4%BA%BA%E5%93%AD%E7%9D%80%E5%8D%96%E6%83%A8%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            8,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时15分 ~ 21时23分]"
-        },
-        {
           "title": "字节AI应用再整合：小云雀并入即梦",
           "url": "https://wallstreetcn.com/livenews/3185128",
           "source": "华尔街见闻-快讯",
@@ -329,6 +333,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时14分 ~ 08时09分]"
+        },
+        {
+          "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
+          "url": "https://wallstreetcn.com/articles/3784282",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时13分 ~ 22时14分]"
         },
         {
           "title": "AI歌曲《过来人》爆火",
@@ -356,19 +373,6 @@
           "time_info": "[13时17分 ~ 13时18分]"
         },
         {
-          "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
-          "url": "https://wallstreetcn.com/articles/3784282",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时13分 ~ 21时23分]"
-        },
-        {
           "title": "AI交易崩盘，Anthropic会推迟\"超级IPO\"吗？距离11月中旬\"预定上市日期\"不远了",
           "url": "https://wallstreetcn.com/articles/3784380",
           "source": "华尔街见闻",
@@ -383,15 +387,15 @@
           "time_info": "[07时11分 ~ 11时17分]"
         },
         {
-          "title": "上海国家会计学院：AI时代企业更需要将技术与财务有机结合",
-          "url": "https://wallstreetcn.com/livenews/3185219",
-          "source": "华尔街见闻-快讯",
+          "title": "沙特民防部门：也门胡塞武装发射的两枚弹道导弹在被拦截后，其碎片落入哈米斯穆沙伊特（Khamis Mushait）和阿哈德拉菲达（Ahad Rafidah）地区，造成两人受伤。",
+          "url": "https://flash.jin10.com/detail/20261025212403229800",
+          "source": "金十数据",
           "ranks": [
-            1
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时23分"
+          "time_info": "22时14分"
         },
         {
           "title": "AI大肥鱼自主运营B站",
@@ -403,6 +407,43 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
+        },
+        {
+          "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？",
+          "url": "https://wallstreetcn.com/articles/3784410",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时13分 ~ 22时14分]"
+        },
+        {
+          "title": "7家科创板公司同日亮成绩单：AI产业链业绩高增，创新药械接力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34328097",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时13分 ~ 22时14分]"
+        },
+        {
+          "title": "上海国家会计学院：AI时代企业更需要将技术与财务有机结合",
+          "url": "https://wallstreetcn.com/livenews/3185219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 22时14分]"
         },
         {
           "title": "陶哲轩称 AI 的数学成果称把解题当基准测试，犹如抛出「有毒废料」，如何看待这一评价？",
@@ -440,18 +481,6 @@
           "time_info": "[14时16分 ~ 18时14分]"
         },
         {
-          "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？",
-          "url": "https://wallstreetcn.com/articles/3784410",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时13分 ~ 21时23分]"
-        },
-        {
           "title": "DeepSeek到底怎么得罪了美国",
           "url": "https://www.toutiao.com/trending/7700471897347067435/",
           "source": "今日头条",
@@ -464,18 +493,6 @@
           "time_info": "[19时13分 ~ 21时23分]"
         },
         {
-          "title": "7家科创板公司同日亮成绩单：AI产业链业绩高增，创新药械接力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34328097",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时13分 ~ 21时23分]"
-        },
-        {
           "title": "《过来人》和Yuri：两场AI音乐试验都在守“人味”",
           "url": "https://m.thepaper.cn/newsDetail_forward_34317944",
           "source": "澎湃新闻",
@@ -486,6 +503,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 02时11分]"
+        },
+        {
+          "title": "肖战清唱Allezaimez",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%B8%85%E5%94%B1Allezaimez%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
         },
         {
           "title": "AI泡沫或在2028年初破裂",
@@ -533,6 +561,17 @@
           "time_info": "[16时13分 ~ 16时14分]"
         },
         {
+          "title": "首部AI院线电影，票房过百万",
+          "url": "https://wallstreetcn.com/livenews/3185220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "阿波罗首席经济学家：AI尚未给科技业以外的美国企业带来回报",
           "url": "https://flash.jin10.com/detail/20261025182545948800",
           "source": "金十数据",
@@ -561,7 +600,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -618,11 +657,12 @@
             21,
             20,
             27,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时17分 ~ 21时23分]"
+          "appearance_count": 16,
+          "time_info": "[13时17分 ~ 22时14分]"
         },
         {
           "title": "王俊凯演唱会王子造型开场",
@@ -767,6 +807,75 @@
       ]
     },
     {
+      "keyword_group": "游戏",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "UP主自制大肥鱼游戏",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            6,
+            9,
+            10,
+            12,
+            13,
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时24分 ~ 21时23分]"
+        },
+        {
+          "title": "网友自制性转马尔福同人游戏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368024&amp;topic_name=%E7%BD%91%E5%8F%8B%E8%87%AA%E5%88%B6%E6%80%A7%E8%BD%AC%E9%A9%AC%E5%B0%94%E7%A6%8F%E5%90%8C%E4%BA%BA%E6%B8%B8%E6%88%8F",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
+        },
+        {
+          "title": "杨幂拉弓像从游戏里走出来",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E5%B9%82%E6%8B%89%E5%BC%93%E5%83%8F%E4%BB%8E%E6%B8%B8%E6%88%8F%E9%87%8C%E8%B5%B0%E5%87%BA%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
+        },
+        {
+          "title": "婚姻是强者的游戏不是弱者的避风港",
+          "url": "https://s.weibo.com/weibo?q=%E5%A9%9A%E5%A7%BB%E6%98%AF%E5%BC%BA%E8%80%85%E7%9A%84%E6%B8%B8%E6%88%8F%E4%B8%8D%E6%98%AF%E5%BC%B1%E8%80%85%E7%9A%84%E9%81%BF%E9%A3%8E%E6%B8%AF&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 02时11分]"
+        },
+        {
+          "title": "2026 年 10 月 Steam 新品节被指 AI 游戏过多，怎么全民做游戏的浪潮刚开始就人人喊打了？",
+          "url": "https://www.zhihu.com/question/2096210471389077623",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "短剧 大结局 全集",
       "match_count": 3,
       "titles": [
@@ -811,53 +920,6 @@
       ]
     },
     {
-      "keyword_group": "游戏",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "UP主自制大肥鱼游戏",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            6,
-            9,
-            10,
-            12,
-            13,
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时24分 ~ 21时23分]"
-        },
-        {
-          "title": "婚姻是强者的游戏不是弱者的避风港",
-          "url": "https://s.weibo.com/weibo?q=%E5%A9%9A%E5%A7%BB%E6%98%AF%E5%BC%BA%E8%80%85%E7%9A%84%E6%B8%B8%E6%88%8F%E4%B8%8D%E6%98%AF%E5%BC%B1%E8%80%85%E7%9A%84%E9%81%BF%E9%A3%8E%E6%B8%AF&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 02时11分]"
-        },
-        {
-          "title": "2026 年 10 月 Steam 新品节被指 AI 游戏过多，怎么全民做游戏的浪潮刚开始就人人喊打了？",
-          "url": "https://www.zhihu.com/question/2096210471389077623",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "开播 定档",
       "match_count": 2,
       "titles": [
@@ -879,11 +941,12 @@
           "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E5%89%A7%E5%BC%80%E6%92%AD%E6%B2%A1%E5%87%A0%E5%A4%A9%E5%B0%B1%E9%99%90%E5%85%8D&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
-            14
+            14,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 22时14分]"
         }
       ]
     },
