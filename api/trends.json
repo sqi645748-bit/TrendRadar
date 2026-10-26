@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T05:21:06.561742+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-10-27T06:20:39.612177+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 DeepSeek",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
           "title": "如何看待老干妈回应「用 AI 把 600 名工人裁到 48 人」，称是不实信息？品牌能挽回消费者信任吗？",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 06时20分]"
         },
         {
           "title": "AI被当真人,大肥鱼遭网恋哥骚扰",
@@ -28,19 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时21分]"
-        },
-        {
-          "title": "周末，物理AI“刷屏”",
-          "url": "https://wallstreetcn.com/articles/3784428",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 06时20分]"
         },
         {
           "title": "菲尔兹奖得主邓煜评论 AI 公司「你不能只在你蒸馏全人类的知识时支持蒸馏」，如何看待模型厂的反蒸馏？",
@@ -52,8 +41,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 06时20分]"
+        },
+        {
+          "title": "周末，物理AI“刷屏”",
+          "url": "https://wallstreetcn.com/articles/3784428",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 06时20分]"
         },
         {
           "title": "DeepSeek 营收只有几亿，却融资上千亿，这种模式合理吗？",
@@ -65,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 06时20分]"
         },
         {
           "title": "DeepSeek七款工具同题实测",
@@ -78,8 +79,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 06时20分]"
         },
         {
           "title": "马斯克的AI电影《奥德赛》首秀：画面有了，叙事不足",
@@ -92,8 +93,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 06时20分]"
         },
         {
           "title": "AI短片《齐天大圣》为何能引发关注",
@@ -103,11 +104,12 @@
             7,
             12,
             19,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 06时20分]"
         },
         {
           "title": "股票募资就达950亿美元，包括650亿ATM发行！Meta“增发”补充AI弹药",
@@ -118,8 +120,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 06时20分]"
         },
         {
           "title": "央视批AI魔改经典名著",
@@ -129,8 +131,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 06时20分]"
         },
         {
           "title": "B站肥鱼成灾,AI评论泛滥",
@@ -140,8 +142,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 06时20分]"
         },
         {
           "title": "如何看待 Anthropic 提交 IPO 申请，将以「ANT」为代码登陆纳斯达克？会给 AI 行业带来哪些改变？",
@@ -149,11 +151,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时29分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[01时29分 ~ 06时20分]"
         },
         {
           "title": "众声丨用AI伪造父亲重病视频诈骗好友，步步踩在人心最不设防处",
@@ -164,8 +167,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时13分 ~ 05时21分]"
+          "appearance_count": 8,
+          "time_info": "[03时13分 ~ 06时20分]"
         },
         {
           "title": "AI伪人广告正在集体“霸凌”人类",
@@ -173,11 +176,12 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时13分 ~ 05时21分]"
+          "appearance_count": 8,
+          "time_info": "[03时13分 ~ 06时20分]"
         },
         {
           "title": "DeepSeek把自家“印钞机”开源了",
@@ -190,6 +194,50 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时13分 ~ 05时21分]"
+        },
+        {
+          "title": "OpenAI：我们的模型推翻了长期被广泛接受的指数时间假设。",
+          "url": "https://flash.jin10.com/detail/20261027054525046800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "OpenAI宣布AI取得三项科学突破，涉及数学猜想、计算机算法及千禧年难题",
+          "url": "https://wallstreetcn.com/livenews/3186491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
+          "url": "https://wallstreetcn.com/articles/3784464",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "OpenAI：宣布数学、计算机科学和物理学领域的三项新发现，涉及调和分析、复杂性理论和量子场论。",
+          "url": "https://flash.jin10.com/detail/20261027053948614800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "AI交易规模惊人，城堡证券称到了“没有容错空间”的地步",
@@ -207,11 +255,12 @@
           "url": "https://www.toutiao.com/trending/7700830683280687131/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时11分 ~ 05时21分]"
+          "appearance_count": 5,
+          "time_info": "[05时11分 ~ 06时20分]"
         },
         {
           "title": "OpenAI推出GPT-6.1 Terra，电脑操作速度提升逾3倍 API价格降低50%",
@@ -226,6 +275,30 @@
           "time_info": "[03时13分 ~ 03时32分]"
         },
         {
+          "title": "博通(AVGO.O)：根据协议，交付预计将于2027年开始；新特殊目的载体将为Anthropic购买博通XPU AI加速器和网络解决方案。",
+          "url": "https://flash.jin10.com/detail/20261027042059145800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时12分 ~ 06时20分]"
+        },
+        {
+          "title": "博通从2027年开始将通过SPV供应XPU AI加速器芯片。 该公司XPU AI芯片将租赁给Anthropic。",
+          "url": "https://wallstreetcn.com/livenews/3186464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时12分 ~ 06时20分]"
+        },
+        {
           "title": "日本信息科技服务商Sakana AI将从零自研本土模型。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3186395",
           "source": "华尔街见闻-快讯",
@@ -236,17 +309,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 03时13分]"
-        },
-        {
-          "title": "博通(AVGO.O)：根据协议，交付预计将于2027年开始；新特殊目的载体将为Anthropic购买博通XPU AI加速器和网络解决方案。",
-          "url": "https://flash.jin10.com/detail/20261027042059145800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 05时21分]"
         },
         {
           "title": "OpenAI推出GPT-6.1 Terra 电脑操作速度提升逾3倍 API价格降低50%",
@@ -285,17 +347,6 @@
           "time_info": "[03时13分 ~ 03时32分]"
         },
         {
-          "title": "博通从2027年开始将通过SPV供应XPU AI加速器芯片。 该公司XPU AI芯片将租赁给Anthropic。",
-          "url": "https://wallstreetcn.com/livenews/3186464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 05时21分]"
-        },
-        {
           "title": "高盛：对冲基金以两年来最快速度抛售科技股，AI交易信念面临考验",
           "url": "https://wallstreetcn.com/livenews/3186438",
           "source": "华尔街见闻-快讯",
@@ -305,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
+        },
+        {
+          "title": "美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2515881",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "据日经新闻：日本AI初创公司Sakana AI宣布，将从零开始训练自主研发的大模型。",
@@ -349,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "美银、黑石、花旗和大摩联合博通宣布里程碑式的630亿美元融资结构，助力AI算力部署",
+          "url": "https://wallstreetcn.com/livenews/3186463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         }
       ]
     },
@@ -364,8 +437,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 06时20分]"
         },
         {
           "title": "UP主自制大肥鱼游戏",
@@ -405,11 +478,12 @@
             16,
             26,
             17,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 06时20分]"
         },
         {
           "title": "现场看盆栽演唱会是什么体验",
@@ -420,8 +494,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 05时21分]"
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 06时20分]"
         }
       ]
     },
@@ -457,6 +531,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小说 电子书 有声书",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "在小说《龙族》中，路明非与陈墨瞳、恺撒的三角关系有一个完美的解法吗？",
+          "url": "https://www.zhihu.com/question/2064858139032343597",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         }
       ]
     }
