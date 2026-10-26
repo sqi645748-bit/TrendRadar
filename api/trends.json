@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-27T00:37:54.929154+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-10-27T01:29:45.966857+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 DeepSeek",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "如何看待老干妈回应「用 AI 把 600 名工人裁到 48 人」，称是不实信息？品牌能挽回消费者信任吗？",
+          "url": "https://www.zhihu.com/question/2098102680065237063",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时29分]"
+        },
         {
           "title": "DeepSeek七款工具同题实测",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B",
@@ -15,19 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "如何看待老干妈回应「用 AI 把 600 名工人裁到 48 人」，称是不实信息？品牌能挽回消费者信任吗？",
-          "url": "https://www.zhihu.com/question/2098102680065237063",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时29分]"
         },
         {
           "title": "AI被当真人,大肥鱼遭网恋哥骚扰",
@@ -37,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时29分]"
         },
         {
           "title": "周末，物理AI“刷屏”",
@@ -48,63 +49,68 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时29分]"
         },
         {
           "title": "菲尔兹奖得主邓煜评论 AI 公司「你不能只在你蒸馏全人类的知识时支持蒸馏」，如何看待模型厂的反蒸馏？",
           "url": "https://www.zhihu.com/question/2097984108207027914",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "AI短片《齐天大圣》为何能引发关注",
-          "url": "https://www.toutiao.com/trending/7700837515682578495/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时29分]"
         },
         {
           "title": "DeepSeek 营收只有几亿，却融资上千亿，这种模式合理吗？",
           "url": "https://www.zhihu.com/question/2095940115537334577",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时29分]"
         },
         {
-          "title": "股票募资就达950亿美元，包括650亿ATM发行！Meta“增发”补充AI弹药",
-          "url": "https://wallstreetcn.com/articles/3784484",
-          "source": "华尔街见闻",
+          "title": "AI短片《齐天大圣》为何能引发关注",
+          "url": "https://www.toutiao.com/trending/7700837515682578495/",
+          "source": "今日头条",
           "ranks": [
-            9
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时29分]"
         },
         {
           "title": "马斯克的AI电影《奥德赛》首秀：画面有了，叙事不足",
           "url": "https://www.cls.cn/detail/2515369",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时29分]"
+        },
+        {
+          "title": "股票募资就达950亿美元，包括650亿ATM发行！Meta“增发”补充AI弹药",
+          "url": "https://wallstreetcn.com/articles/3784484",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时29分]"
         },
         {
           "title": "央视批AI魔改经典名著",
@@ -114,8 +120,52 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时29分]"
+        },
+        {
+          "title": "B站肥鱼成灾,AI评论泛滥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时29分]"
+        },
+        {
+          "title": "日本信息科技服务商Sakana AI将从零自研本土模型。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3186395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时29分"
+        },
+        {
+          "title": "据日经新闻：日本AI初创公司Sakana AI宣布，将从零开始训练自主研发的大模型。",
+          "url": "https://flash.jin10.com/detail/20261027005611289800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "如何看待 Anthropic 提交 IPO 申请，将以「ANT」为代码登陆纳斯达克？会给 AI 行业带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2098146460403615476",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
         },
         {
           "title": "美股费城半导体指数日内涨3%。英伟达涨3.11%，博通涨2.83%，美光涨3.47%，英特尔涨3.23%，AMD涨2.34%，高通涨2.09%，台积电涨2.04%，阿斯麦ADR涨2.46%。 存储芯片指数涨3.2%，AI软件先驱指数涨1.5%、AI赢家指数涨2.7%。标普半导体设备指数涨3%。 标普涨1%，恐慌指数VIX波动率日内跌幅达8.0%，报17.89；道指涨0.5%，纳指涨1.3%，纳斯达克100指数涨1.4%，银行指数涨1.4%。",
@@ -138,23 +188,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
-        },
-        {
-          "title": "B站肥鱼成灾,AI评论泛滥",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
         }
       ]
     },
     {
       "keyword_group": "游戏",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "网友自制性转马尔福同人游戏",
@@ -164,8 +203,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时29分]"
         },
         {
           "title": "UP主自制大肥鱼游戏",
@@ -177,6 +216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "将MC爆改成其他游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%86MC%E7%88%86%E6%94%B9%E6%88%90%E5%85%B6%E4%BB%96%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
         }
       ]
     },
@@ -189,11 +239,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%BC%80%E6%92%AD%E4%B8%89%E6%97%A5%E4%BA%91%E5%90%88%E8%B5%B0%E5%8A%BF%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时29分]"
         }
       ]
     },
@@ -206,11 +257,12 @@
           "url": "https://www.douyin.com/hot/2713312",
           "source": "抖音",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时29分]"
         }
       ]
     },
