@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T20:29:01.677711+08:00",
-  "total_titles_processed": 1826,
+  "generated_at": "2026-10-26T22:15:10.165482+08:00",
+  "total_titles_processed": 1976,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 DeepSeek",
-      "match_count": 65,
+      "match_count": 71,
       "titles": [
         {
           "title": "本周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时34分 ~ 20时29分]"
+          "appearance_count": 20,
+          "time_info": "[09时34分 ~ 22时15分]"
         },
         {
           "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
@@ -92,8 +92,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时21分 ~ 20时29分]"
+          "appearance_count": 18,
+          "time_info": "[11时21分 ~ 22时15分]"
         },
         {
           "title": "AI交易何时止跌？市场盯着Meta“天量发债”背后的“囚徒困境”",
@@ -220,11 +220,12 @@
             12,
             14,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时15分 ~ 20时29分]"
+          "appearance_count": 32,
+          "time_info": "[00时15分 ~ 22时15分]"
         },
         {
           "title": "7家科创板公司同日亮成绩单：AI产业链业绩高增，创新药械接力",
@@ -267,11 +268,25 @@
             20,
             21,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时15分 ~ 20时29分]"
+          "appearance_count": 32,
+          "time_info": "[00时15分 ~ 22时15分]"
+        },
+        {
+          "title": "老干妈回应“用AI把600人裁到48人”",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%B9%B2%E5%A6%88%E5%9B%9E%E5%BA%94%E2%80%9C%E7%94%A8AI%E6%8A%8A600%E4%BA%BA%E8%A3%81%E5%88%B048%E4%BA%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时28分 ~ 22时15分]"
         },
         {
           "title": "市场过度恐慌？野村：存储短缺将延续至2028年，AI资本开支韧性仍强",
@@ -329,19 +344,6 @@
           "time_info": "[16时31分 ~ 20时29分]"
         },
         {
-          "title": "老干妈回应“用AI把600人裁到48人”",
-          "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%B9%B2%E5%A6%88%E5%9B%9E%E5%BA%94%E2%80%9C%E7%94%A8AI%E6%8A%8A600%E4%BA%BA%E8%A3%81%E5%88%B048%E4%BA%BA%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时28分 ~ 20时29分]"
-        },
-        {
           "title": "AI生成视频已经能逃过人脸识别系统",
           "url": "https://www.toutiao.com/trending/7700611070783881755/",
           "source": "今日头条",
@@ -353,6 +355,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时34分 ~ 12时24分]"
+        },
+        {
+          "title": "AI越界撞上中期选举？Anthropic Claude“翻付费墙”，调取州选民数据！",
+          "url": "https://www.cls.cn/detail/2514973",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 22时15分]"
         },
         {
           "title": "老干妈AI裁员传闻引争议",
@@ -479,6 +493,18 @@
           "time_info": "[11时21分 ~ 13时23分]"
         },
         {
+          "title": "菲尔兹奖得主邓煜评论 AI 公司「你不能只在你蒸馏全人类的知识时支持蒸馏」，如何看待模型厂的反蒸馏？",
+          "url": "https://www.zhihu.com/question/2097984108207027914",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 22时15分]"
+        },
+        {
           "title": "比尔·盖茨谈AI对人类工作的冲击",
           "url": "https://www.toutiao.com/trending/7700200466793267236/",
           "source": "今日头条",
@@ -503,16 +529,16 @@
           "time_info": "[13时22分 ~ 14时23分]"
         },
         {
-          "title": "AI越界撞上中期选举？Anthropic Claude“翻付费墙”，调取州选民数据！",
-          "url": "https://www.cls.cn/detail/2514973",
-          "source": "财联社热门",
+          "title": "DeepSeek 营收只有几亿，却融资上千亿，这种模式合理吗？",
+          "url": "https://www.zhihu.com/question/2095940115537334577",
+          "source": "知乎",
           "ranks": [
-            12,
-            11
+            20,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时28分 ~ 20时29分]"
+          "time_info": "[20时28分 ~ 22时15分]"
         },
         {
           "title": "老干妈回应AI裁员传闻",
@@ -563,6 +589,17 @@
           "time_info": "[00时15分 ~ 02时41分]"
         },
         {
+          "title": "如何看待老干妈回应「用 AI 把 600 名工人裁到 48 人」，称是不实信息？品牌能挽回消费者信任吗？",
+          "url": "https://www.zhihu.com/question/2098102680065237063",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 22时15分]"
+        },
+        {
           "title": "老干妈辟谣AI裁员传闻",
           "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B9%B2%E5%A6%88%E8%BE%9F%E8%B0%A3AI%E8%A3%81%E5%91%98%E4%BC%A0%E9%97%BB%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -572,6 +609,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
+          "title": "股票募资就达950亿美元，包括650亿ATM发行！Meta“增发”补充AI弹药",
+          "url": "https://wallstreetcn.com/articles/3784484",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 22时15分]"
         },
         {
           "title": "AI基建把保险业逼进新战场！数据中心晚交付一天，罚款500万美元",
@@ -586,15 +634,15 @@
           "time_info": "[12时24分 ~ 13时23分]"
         },
         {
-          "title": "菲尔兹奖得主邓煜评论 AI 公司「你不能只在你蒸馏全人类的知识时支持蒸馏」，如何看待模型厂的反蒸馏？",
-          "url": "https://www.zhihu.com/question/2097984108207027914",
-          "source": "知乎",
+          "title": "AI短片《齐天大圣》为何能引发关注",
+          "url": "https://www.toutiao.com/trending/7700837515682578495/",
+          "source": "今日头条",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
+          "time_info": "[22时14分 ~ 22时15分]"
         },
         {
           "title": "菲尔兹奖得主邓煜谈AI与数学",
@@ -628,17 +676,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时22分 ~ 14时23分]"
-        },
-        {
-          "title": "DeepSeek 营收只有几亿，却融资上千亿，这种模式合理吗？",
-          "url": "https://www.zhihu.com/question/2095940115537334577",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
         },
         {
           "title": "AI探店火了 有代做公司月流水800万",
@@ -685,6 +722,17 @@
           "time_info": "16时32分"
         },
         {
+          "title": "美股三大指数集体高开，道指涨0.2%，标普500指数涨0.25%，纳指涨0.28%。巴西在美股上市的公司暴跌，XP跌超52%，PAGSEGURO DIGITAL跌超33%，伊塔乌联合银行跌超23%，巴西石油跌超17%。SK海力士涨超2%，公司据报筹备50万亿至60万亿韩元股东回报计划。Meta小幅下跌，公司寻求最多950亿美元股权融资以支持AI支出。",
+          "url": "https://wallstreetcn.com/livenews/3186311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "港股大模型“双雄”双双下跌，MINIMAX-W(00100.HK)跌超10%，智谱(02513.HK)跌超5%。",
           "url": "https://flash.jin10.com/detail/20261026100536950800",
           "source": "金十数据",
@@ -724,7 +772,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -751,13 +799,24 @@
           "time_info": "18时29分"
         },
         {
+          "title": "Anthropic：随着算力基础设施的持续扩张，资本支出预计将大幅增加。 预计相关投资将在可预见的未来导致经营活动和投资活动产生大量净现金流出。 截至9月30日，拥有超过1,900名客户在过去十二个月（TTM）内贡献的收入均超过100万美元。 截至9月30日，拥有约250家客户过去12个月收入达到或超过1000万美元。 近期增长可能反映了早期采用动态、AI市场的初创阶段以及快速的初期客户扩张，这些因素可能无法长期持续。 随着收入基数扩大和市场逐步成熟，收入增速可能会大幅下降，且下降速度可能比预期更快。",
+          "url": "https://wallstreetcn.com/livenews/3186304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "上纬新材：股价异动期间“物理AI”等概念活跃，机器人业务处量产爬坡阶段",
           "url": "https://wallstreetcn.com/livenews/3186228",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -793,6 +852,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "AI景气度指标",
+          "url": "https://flash.jin10.com/detail/20261026214105110800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "AI前沿日报-10月26日",
@@ -896,11 +966,12 @@
           "source": "抖音",
           "ranks": [
             18,
-            22
+            22,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 20时29分]"
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 22时15分]"
         },
         {
           "title": "刘卓晒肖战南京演唱会大合照",
@@ -999,11 +1070,12 @@
             8,
             11,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时15分 ~ 20时29分]"
+          "appearance_count": 32,
+          "time_info": "[00时15分 ~ 22时15分]"
         },
         {
           "title": "杨幂拉弓像从游戏里走出来",
