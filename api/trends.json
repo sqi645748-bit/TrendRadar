@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T10:24:32.651355+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2026-10-26T11:21:59.201377+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 DeepSeek",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 10时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 11时21分]"
         },
         {
           "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
@@ -58,6 +58,22 @@
           "time_info": "[00时15分 ~ 09时34分]"
         },
         {
+          "title": "首部AI院线电影《三星堆·未来往事》遇冷，上映3天收获115万票房",
+          "url": "https://www.cls.cn/detail/2514471",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时24分 ~ 11时21分]"
+        },
+        {
           "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？",
           "url": "https://wallstreetcn.com/articles/3784410",
           "source": "华尔街见闻",
@@ -67,8 +83,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 10时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 11时21分]"
         },
         {
           "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
@@ -108,8 +124,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 10时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 11时21分]"
         },
         {
           "title": "DeepSeek到底怎么得罪了美国",
@@ -130,6 +146,20 @@
           "time_info": "[00时15分 ~ 08时11分]"
         },
         {
+          "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
+          "url": "https://www.cls.cn/detail/2514315",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 11时21分]"
+        },
+        {
           "title": "央视批AI魔改经典名著",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97",
           "source": "贴吧",
@@ -139,21 +169,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 10时24分]"
-        },
-        {
-          "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
-          "url": "https://www.cls.cn/detail/2514315",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 10时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 11时21分]"
         },
         {
           "title": "7家科创板公司同日亮成绩单：AI产业链业绩高增，创新药械接力",
@@ -164,38 +181,12 @@
             16,
             17,
             19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 10时24分]"
-        },
-        {
-          "title": "B站肥鱼成灾,AI评论泛滥",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
-          "source": "贴吧",
-          "ranks": [
-            19,
+            18,
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 10时24分]"
-        },
-        {
-          "title": "首部AI院线电影《三星堆·未来往事》遇冷，上映3天收获115万票房",
-          "url": "https://www.cls.cn/detail/2514471",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时24分 ~ 10时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 11时21分]"
         },
         {
           "title": "丈母娘也开始抢AI人了",
@@ -210,19 +201,32 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时15分 ~ 10时24分]"
+          "appearance_count": 10,
+          "time_info": "[01时15分 ~ 11时21分]"
+        },
+        {
+          "title": "B站肥鱼成灾,AI评论泛滥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 11时21分]"
         },
         {
           "title": "本周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
           "url": "https://wallstreetcn.com/articles/3784282",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时34分 ~ 10时24分]"
+          "appearance_count": 3,
+          "time_info": "[09时34分 ~ 11时21分]"
         },
         {
           "title": "市场过度恐慌？野村：存储短缺将延续至2028年，AI资本开支韧性仍强",
@@ -231,11 +235,12 @@
           "ranks": [
             13,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时22分 ~ 10时24分]"
+          "appearance_count": 7,
+          "time_info": "[03时22分 ~ 11时21分]"
         },
         {
           "title": "蓝思科技：东莞松山湖园区AI服务器相关产能已完成扩充，正进入量产爬坡阶段",
@@ -244,9 +249,43 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "创业板指跌超3%，沪指跌0.58%，深成指跌1.89%，算力硬件、半导体芯片、贵金属、AI漫剧等方向跌幅居前，沪深京三市下跌个股超3600只。",
+          "url": "https://wallstreetcn.com/livenews/3185346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "AI生成视频已经能逃过人脸识别系统",
+          "url": "https://www.toutiao.com/trending/7700611070783881755/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时34分 ~ 11时21分]"
+        },
+        {
+          "title": "三星电子拟借助AI将半导体新材料研发周期缩短至2年",
+          "url": "https://flash.jin10.com/detail/20261026104704406800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "日本软银计划计划在马来西亚投资500亿美元发展人工智能（AI）。",
@@ -291,18 +330,6 @@
           "time_info": "[00时15分 ~ 04时09分]"
         },
         {
-          "title": "AI生成视频已经能逃过人脸识别系统",
-          "url": "https://www.toutiao.com/trending/7700611070783881755/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时34分 ~ 10时24分]"
-        },
-        {
           "title": "S16进入大AI时代",
           "url": "https://www.douyin.com/hot/2712181",
           "source": "抖音",
@@ -326,37 +353,51 @@
           "time_info": "[00时15分 ~ 02时41分]"
         },
         {
-          "title": "创业板指跌超2%，沪指跌0.44%，深成指跌1.09%，贵金属、AI漫剧、算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近2900只。",
-          "url": "https://wallstreetcn.com/livenews/3185326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
           "title": "多家科创板龙头企业晒账本：AI产业链景气正变成利润",
           "url": "https://www.cls.cn/detail/2514496",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 11时21分]"
+        },
+        {
+          "title": "创业板指跌超2%，沪指跌0.44%，深成指跌1.09%，贵金属、AI漫剧、算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近2900只。",
+          "url": "https://wallstreetcn.com/livenews/3185326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 11时21分]"
         },
         {
           "title": "AI漫剧概念盘初调整，慈文传媒、博纳影业触及跌停，果麦文化跌超10%，上海电影、欢瑞世纪、横店影视跟跌。",
           "url": "https://wallstreetcn.com/livenews/3185322",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 11时21分]"
+        },
+        {
+          "title": "周末，物理AI“刷屏”",
+          "url": "https://wallstreetcn.com/articles/3784428",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时24分"
+          "time_info": "11时21分"
         },
         {
           "title": "港股大模型“双雄”双双下跌，MINIMAX-W(00100.HK)跌超10%，智谱(02513.HK)跌超5%。",
@@ -365,9 +406,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "越南石油天然气集团：2027年将在越南近海Sao Vang-Dai Nguyet油田进行钻探作业。",
+          "url": "https://flash.jin10.com/detail/20261026103244257800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "AI生成视频已能逃过人脸识别系统",
+          "url": "https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91%E5%B7%B2%E8%83%BD%E9%80%83%E8%BF%87%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%B3%BB%E7%BB%9F",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         }
       ]
     },
@@ -402,8 +465,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时15分 ~ 08时11分]"
+          "appearance_count": 12,
+          "time_info": "[01时15分 ~ 11时21分]"
         },
         {
           "title": "肖战演唱会伴手礼是什么水平",
@@ -465,7 +528,7 @@
     },
     {
       "keyword_group": "游戏",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "网友自制性转马尔福同人游戏",
@@ -477,8 +540,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 10时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 11时21分]"
         },
         {
           "title": "杨幂拉弓像从游戏里走出来",
@@ -491,6 +554,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时15分 ~ 10时24分]"
+        },
+        {
+          "title": "《影之刃零》获 IGN9/Mc88，媒体称之为最好的动作游戏之一，符合你的心理预期吗？",
+          "url": "https://www.zhihu.com/question/2097965186502112658",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "将MC爆改成其他游戏",
@@ -510,7 +584,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         }
@@ -533,19 +607,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 10时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 11时21分]"
         },
         {
           "title": "浙江宣传：AI短剧真的“降智”吗",
           "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%EF%BC%9AAI%E7%9F%AD%E5%89%A7%E7%9C%9F%E7%9A%84%E2%80%9C%E9%99%8D%E6%99%BA%E2%80%9D%E5%90%97",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时34分 ~ 10时24分]"
+          "appearance_count": 3,
+          "time_info": "[09时34分 ~ 11时21分]"
         }
       ]
     },
