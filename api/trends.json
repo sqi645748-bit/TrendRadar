@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T01:29:45.966857+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-10-27T03:13:59.302627+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 DeepSeek",
-      "match_count": 16,
+      "match_count": 24,
       "titles": [
         {
           "title": "如何看待老干妈回应「用 AI 把 600 名工人裁到 48 人」，称是不实信息？品牌能挽回消费者信任吗？",
@@ -13,22 +13,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时29分]"
-        },
-        {
-          "title": "DeepSeek七款工具同题实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时13分]"
         },
         {
           "title": "AI被当真人,大肥鱼遭网恋哥骚扰",
@@ -38,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时13分]"
         },
         {
           "title": "周末，物理AI“刷屏”",
@@ -49,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时13分]"
         },
         {
           "title": "菲尔兹奖得主邓煜评论 AI 公司「你不能只在你蒸馏全人类的知识时支持蒸馏」，如何看待模型厂的反蒸馏？",
@@ -58,11 +48,35 @@
           "source": "知乎",
           "ranks": [
             6,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时13分]"
+        },
+        {
+          "title": "OpenAI推出GPT-6.1 Terra，电脑操作速度提升逾3倍 API价格降低50%",
+          "url": "https://wallstreetcn.com/livenews/3186427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "DeepSeek七款工具同题实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时13分]"
         },
         {
           "title": "DeepSeek 营收只有几亿，却融资上千亿，这种模式合理吗？",
@@ -70,23 +84,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时29分]"
-        },
-        {
-          "title": "AI短片《齐天大圣》为何能引发关注",
-          "url": "https://www.toutiao.com/trending/7700837515682578495/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时13分]"
         },
         {
           "title": "马斯克的AI电影《奥德赛》首秀：画面有了，叙事不足",
@@ -94,11 +97,25 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时13分]"
+        },
+        {
+          "title": "AI短片《齐天大圣》为何能引发关注",
+          "url": "https://www.toutiao.com/trending/7700837515682578495/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时13分]"
         },
         {
           "title": "股票募资就达950亿美元，包括650亿ATM发行！Meta“增发”补充AI弹药",
@@ -109,8 +126,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时13分]"
         },
         {
           "title": "央视批AI魔改经典名著",
@@ -120,8 +137,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时13分]"
         },
         {
           "title": "B站肥鱼成灾,AI评论泛滥",
@@ -131,19 +148,43 @@
             27
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时13分]"
+        },
+        {
+          "title": "如何看待 Anthropic 提交 IPO 申请，将以「ANT」为代码登陆纳斯达克？会给 AI 行业带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2098146460403615476",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时29分]"
+          "time_info": "[01时29分 ~ 03时13分]"
         },
         {
           "title": "日本信息科技服务商Sakana AI将从零自研本土模型。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3186395",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 03时13分]"
+        },
+        {
+          "title": "众声丨用AI伪造父亲重病视频诈骗好友，步步踩在人心最不设防处",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34335625",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "03时13分"
         },
         {
           "title": "据日经新闻：日本AI初创公司Sakana AI宣布，将从零开始训练自主研发的大模型。",
@@ -152,20 +193,64 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         },
         {
-          "title": "如何看待 Anthropic 提交 IPO 申请，将以「ANT」为代码登陆纳斯达克？会给 AI 行业带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2098146460403615476",
-          "source": "知乎",
+          "title": "OpenAI推出GPT-6.1 Terra 电脑操作速度提升逾3倍 API价格降低50%",
+          "url": "https://flash.jin10.com/detail/20261027021647015800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "03时13分"
+        },
+        {
+          "title": "IBM与英伟达将AI智能体身份和运行时访问控制绑定。",
+          "url": "https://wallstreetcn.com/livenews/3186413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "OpenAI：GPT-6.1 Terra现已开始推出，面向所有Plus、Pro、Enterprise和Edu用户开放，可在ChatGPT Work和Codex中使用。",
+          "url": "https://flash.jin10.com/detail/20261027020838874800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "Cadenc推出一套AI模型，芯片制造商可在内部运行这些模型",
+          "url": "https://wallstreetcn.com/livenews/3186410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "AI伪人广告正在集体“霸凌”人类",
+          "url": "https://www.baidu.com/s?wd=AI%E4%BC%AA%E4%BA%BA%E5%B9%BF%E5%91%8A%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E2%80%9C%E9%9C%B8%E5%87%8C%E2%80%9D%E4%BA%BA%E7%B1%BB",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "美股费城半导体指数日内涨3%。英伟达涨3.11%，博通涨2.83%，美光涨3.47%，英特尔涨3.23%，AMD涨2.34%，高通涨2.09%，台积电涨2.04%，阿斯麦ADR涨2.46%。 存储芯片指数涨3.2%，AI软件先驱指数涨1.5%、AI赢家指数涨2.7%。标普半导体设备指数涨3%。 标普涨1%，恐慌指数VIX波动率日内跌幅达8.0%，报17.89；道指涨0.5%，纳指涨1.3%，纳斯达克100指数涨1.4%，银行指数涨1.4%。",
@@ -177,6 +262,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "DeepSeek把自家“印钞机”开源了",
+          "url": "https://www.toutiao.com/trending/7700884077489950271/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "法拉第未来：FF EAI机器人生态系统（FFR）已完成对法拉第未来机器人业务的收购，并建立一个在纳斯达克交易的人形与仿生机器人平台（代码FFR）。FFR预计10月机器人销量及出货量将超过300台。",
@@ -203,8 +299,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时13分]"
         },
         {
           "title": "UP主自制大肥鱼游戏",
@@ -224,9 +320,39 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "演唱会 综艺",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "theweeknd香港演唱会",
+          "url": "https://www.douyin.com/hot/2713312",
+          "source": "抖音",
+          "ranks": [
+            18,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时13分]"
+        },
+        {
+          "title": "现场看盆栽演唱会是什么体验",
+          "url": "https://www.douyin.com/hot/2714713",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         }
       ]
     },
@@ -241,24 +367,6 @@
           "ranks": [
             8,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "演唱会 综艺",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "theweeknd香港演唱会",
-          "url": "https://www.douyin.com/hot/2713312",
-          "source": "抖音",
-          "ranks": [
-            18,
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
