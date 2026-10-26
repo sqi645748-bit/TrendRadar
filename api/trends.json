@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T17:29:17.435217+08:00",
-  "total_titles_processed": 1577,
+  "generated_at": "2026-10-26T18:29:05.821852+08:00",
+  "total_titles_processed": 1690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 DeepSeek",
-      "match_count": 50,
+      "match_count": 61,
       "titles": [
         {
           "title": "本周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时34分 ~ 17时29分]"
+          "appearance_count": 16,
+          "time_info": "[09时34分 ~ 18时29分]"
         },
         {
           "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
@@ -92,8 +92,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时21分 ~ 17时29分]"
+          "appearance_count": 14,
+          "time_info": "[11时21分 ~ 18时29分]"
         },
         {
           "title": "AI交易何时止跌？市场盯着Meta“天量发债”背后的“囚徒困境”",
@@ -219,11 +219,12 @@
             11,
             12,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时15分 ~ 17时29分]"
+          "appearance_count": 28,
+          "time_info": "[00时15分 ~ 18时29分]"
         },
         {
           "title": "7家科创板公司同日亮成绩单：AI产业链业绩高增，创新药械接力",
@@ -265,11 +266,12 @@
             19,
             20,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时15分 ~ 17时29分]"
+          "appearance_count": 28,
+          "time_info": "[00时15分 ~ 18时29分]"
         },
         {
           "title": "市场过度恐慌？野村：存储短缺将延续至2028年，AI资本开支韧性仍强",
@@ -314,17 +316,6 @@
           "time_info": "[16时31分 ~ 17时29分]"
         },
         {
-          "title": "老干妈回应“用AI把600人裁到48人”",
-          "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%B9%B2%E5%A6%88%E5%9B%9E%E5%BA%94%E2%80%9C%E7%94%A8AI%E6%8A%8A600%E4%BA%BA%E8%A3%81%E5%88%B048%E4%BA%BA%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
-        },
-        {
           "title": "AI生成视频已经能逃过人脸识别系统",
           "url": "https://www.toutiao.com/trending/7700611070783881755/",
           "source": "今日头条",
@@ -336,6 +327,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时34分 ~ 12时24分]"
+        },
+        {
+          "title": "老干妈回应“用AI把600人裁到48人”",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%B9%B2%E5%A6%88%E5%9B%9E%E5%BA%94%E2%80%9C%E7%94%A8AI%E6%8A%8A600%E4%BA%BA%E8%A3%81%E5%88%B048%E4%BA%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 18时29分]"
+        },
+        {
+          "title": "周期股总在“最便宜”时见顶——最早看多AI硬件的“芯片网红”Citrini，为何正在悄然离场",
+          "url": "https://wallstreetcn.com/articles/3784436",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 18时29分]"
         },
         {
           "title": "老干妈AI裁员传闻引争议",
@@ -474,18 +489,6 @@
           "time_info": "[12时23分 ~ 13时23分]"
         },
         {
-          "title": "周期股总在“最便宜”时见顶——最早看多AI硬件的“芯片网红”Citrini，为何正在悄然离场",
-          "url": "https://wallstreetcn.com/articles/3784436",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 17时29分]"
-        },
-        {
           "title": "媒体：让AI与骗子周旋值得借鉴",
           "url": "https://www.toutiao.com/trending/7700775322890829833/",
           "source": "今日头条",
@@ -535,6 +538,17 @@
           "time_info": "[00时15分 ~ 02时41分]"
         },
         {
+          "title": "老干妈辟谣AI裁员传闻",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B9%B2%E5%A6%88%E8%BE%9F%E8%B0%A3AI%E8%A3%81%E5%91%98%E4%BC%A0%E9%97%BB%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
           "title": "AI基建把保险业逼进新战场！数据中心晚交付一天，罚款500万美元",
           "url": "https://flash.jin10.com/detail/20261026120249406800",
           "source": "金十数据",
@@ -547,6 +561,17 @@
           "time_info": "[12时24分 ~ 13时23分]"
         },
         {
+          "title": "AI越界撞上中期选举？Anthropic Claude“翻付费墙”，调取州选民数据！",
+          "url": "https://www.cls.cn/detail/2514973",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
           "title": "菲尔兹奖得主邓煜谈AI与数学",
           "url": "https://search.bilibili.com/all?keyword=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E9%82%93%E7%85%9C%E8%B0%88AI%E4%B8%8E%E6%95%B0%E5%AD%A6",
           "source": "bilibili 热搜",
@@ -556,6 +581,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时28分 ~ 17时29分]"
+        },
+        {
+          "title": "老干妈回应AI裁员传闻",
+          "url": "https://www.toutiao.com/trending/7700257751846469658/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "AI让发表论文更难了吗",
@@ -580,6 +616,17 @@
           "time_info": "[14时22分 ~ 14时23分]"
         },
         {
+          "title": "AI探店火了 有代做公司月流水800万",
+          "url": "https://www.baidu.com/s?wd=AI%E6%8E%A2%E5%BA%97%E7%81%AB%E4%BA%86+%E6%9C%89%E4%BB%A3%E5%81%9A%E5%85%AC%E5%8F%B8%E6%9C%88%E6%B5%81%E6%B0%B4800%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
           "title": "港股物理AI板块午后走强，欢创科技涨超13%，越疆涨超11%，禾赛涨超10%，优必选涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3185409",
           "source": "华尔街见闻-快讯",
@@ -589,6 +636,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "宇树科技：人形机器人行业尚处于商业化早期 物理AI技术从实验室演示走向真实场景的规模化落地仍面临多重挑战",
+          "url": "https://flash.jin10.com/detail/20261026181059466800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "Acrab与端脑科技达成战略合作，推进端侧AI芯片与智能体软硬协同",
@@ -624,6 +682,61 @@
           "time_info": "14时23分"
         },
         {
+          "title": "市场消息：鸿海启用基于英伟达(NVDA.O)DGX超级计算集群的AI工厂。",
+          "url": "https://flash.jin10.com/detail/20261026180715550800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "景旺电子：第三季度净利润10.14亿元，同比增长239.67%；前三季度净利润16.16亿元，同比增长70.42%；主要系本报告期公司高速通信与AI数据基础设施领域的高性能PCB产品收入增加，上游材料价格上涨驱动产品销售价格增长以及订单结构持续优化等。",
+          "url": "https://wallstreetcn.com/livenews/3185916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "宇树科技：人形机器人行业尚处于商业化早期 物理AI技术从实验室演示走向真实场景的规模化落地仍面临多重挑战",
+          "url": "https://wallstreetcn.com/livenews/3185914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "相关文件显示，美国政治候选人正精心设计竞选信息，旨在迎合那些被越来越多选民用于查询各类议题的AI聊天机器人。",
+          "url": "https://flash.jin10.com/detail/20261026180259444800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "AI新云融资模式面临考验，算力扩张与资本回报出现矛盾",
+          "url": "https://flash.jin10.com/detail/20261026180241819800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "越南石油天然气集团：2027年将在越南近海Sao Vang-Dai Nguyet油田进行钻探作业。",
           "url": "https://flash.jin10.com/detail/20261026103244257800",
           "source": "金十数据",
@@ -655,12 +768,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "富士康在英伟达DGX超级计算平台上部署AI工厂。",
+          "url": "https://wallstreetcn.com/livenews/3185898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
     {
       "keyword_group": "演唱会 综艺",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "肖战演唱会刚结束就回复了史彭元",
@@ -712,11 +836,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时40分 ~ 17时29分]"
+          "appearance_count": 7,
+          "time_info": "[15时40分 ~ 18时29分]"
         },
         {
           "title": "刘卓晒肖战南京演唱会大合照",
@@ -728,6 +853,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时22分 ~ 14时23分]"
+        },
+        {
+          "title": "theweeknd香港演唱会",
+          "url": "https://www.douyin.com/hot/2713312",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "肖战演唱会伴手礼是什么水平",
@@ -814,11 +950,12 @@
             7,
             8,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时15分 ~ 17时29分]"
+          "appearance_count": 28,
+          "time_info": "[00时15分 ~ 18时29分]"
         },
         {
           "title": "杨幂拉弓像从游戏里走出来",
@@ -846,6 +983,18 @@
           "time_info": "[06时11分 ~ 17时29分]"
         },
         {
+          "title": "UP主自制大肥鱼游戏",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 18时29分]"
+        },
+        {
           "title": "沪指午后拉升翻红，创业板指跌幅缩窄至0.88%，游戏、油气、白酒、食品、医药医疗等方向涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3185400",
           "source": "华尔街见闻-快讯",
@@ -855,23 +1004,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
-        },
-        {
-          "title": "UP主自制大肥鱼游戏",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
         }
       ]
     },
     {
       "keyword_group": "短剧 大结局 全集",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "横店微短剧之夜",
@@ -912,6 +1050,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时23分 ~ 12时24分]"
+        },
+        {
+          "title": "腾讯绿泡泡短剧小程序月活过亿，10月首周周活环比增长44.1%",
+          "url": "https://flash.jin10.com/detail/20261026180556790800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "腾讯绿泡泡短剧小程序月活过亿，10月首周周活环比增长44.1%",
+          "url": "https://wallstreetcn.com/livenews/3185904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
