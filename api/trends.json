@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-26T14:23:11.489598+08:00",
-  "total_titles_processed": 1240,
+  "generated_at": "2026-10-26T15:40:49.370090+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 DeepSeek",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "本周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
+          "url": "https://wallstreetcn.com/articles/3784282",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时34分 ~ 15时40分]"
+        },
         {
           "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
           "url": "https://wallstreetcn.com/articles/3784282",
@@ -20,18 +32,6 @@
           "time_info": "[00时15分 ~ 08时11分]"
         },
         {
-          "title": "本周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
-          "url": "https://wallstreetcn.com/articles/3784282",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时34分 ~ 14时23分]"
-        },
-        {
           "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
           "url": "https://www.cls.cn/detail/2513560",
           "source": "财联社热门",
@@ -42,6 +42,25 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时15分 ~ 08时11分]"
+        },
+        {
+          "title": "首部AI院线电影《三星堆·未来往事》遇冷，上映3天收获115万票房",
+          "url": "https://www.cls.cn/detail/2514471",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9,
+            7,
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[05时24分 ~ 15时40分]"
         },
         {
           "title": "AI交易何时止跌？市场盯着Meta“天量发债”背后的“囚徒困境”",
@@ -57,22 +76,35 @@
           "time_info": "[00时15分 ~ 11时21分]"
         },
         {
-          "title": "首部AI院线电影《三星堆·未来往事》遇冷，上映3天收获115万票房",
-          "url": "https://www.cls.cn/detail/2514471",
+          "title": "多家科创板龙头企业晒账本：AI产业链景气正变成利润",
+          "url": "https://www.cls.cn/detail/2514496",
           "source": "财联社热门",
           "ranks": [
-            13,
             10,
-            9,
-            7,
             6,
             5,
             4,
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[05时24分 ~ 14时23分]"
+          "appearance_count": 9,
+          "time_info": "[10时24分 ~ 15时40分]"
+        },
+        {
+          "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？",
+          "url": "https://wallstreetcn.com/articles/3784410",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 15时40分]"
         },
         {
           "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
@@ -86,35 +118,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时15分 ~ 09时34分]"
-        },
-        {
-          "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？",
-          "url": "https://wallstreetcn.com/articles/3784410",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 14时23分]"
-        },
-        {
-          "title": "多家科创板龙头企业晒账本：AI产业链景气正变成利润",
-          "url": "https://www.cls.cn/detail/2514496",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时24分 ~ 14时23分]"
         },
         {
           "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
@@ -197,11 +200,12 @@
             10,
             11,
             12,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 14时23分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 15时40分]"
         },
         {
           "title": "7家科创板公司同日亮成绩单：AI产业链业绩高增，创新药械接力",
@@ -242,11 +246,26 @@
           "ranks": [
             19,
             20,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 14时23分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 15时40分]"
+        },
+        {
+          "title": "周末，物理AI“刷屏”",
+          "url": "https://wallstreetcn.com/articles/3784428",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时21分 ~ 15时40分]"
         },
         {
           "title": "市场过度恐慌？野村：存储短缺将延续至2028年，AI资本开支韧性仍强",
@@ -277,19 +296,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[08时10分 ~ 14时23分]"
-        },
-        {
-          "title": "周末，物理AI“刷屏”",
-          "url": "https://wallstreetcn.com/articles/3784428",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时21分 ~ 14时23分]"
         },
         {
           "title": "AI生成视频已经能逃过人脸识别系统",
@@ -334,9 +340,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "AI生成视频已能逃过人脸识别系统",
+          "url": "https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91%E5%B7%B2%E8%83%BD%E9%80%83%E8%BF%87%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%B3%BB%E7%BB%9F",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            30,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 15时40分]"
         },
         {
           "title": "三星电子拟借助AI将半导体新材料研发周期缩短至2年",
@@ -356,7 +375,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -477,18 +496,6 @@
           "time_info": "[00时15分 ~ 02时41分]"
         },
         {
-          "title": "AI生成视频已能逃过人脸识别系统",
-          "url": "https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91%E5%B7%B2%E8%83%BD%E9%80%83%E8%BF%87%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%B3%BB%E7%BB%9F",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时23分]"
-        },
-        {
           "title": "AI基建把保险业逼进新战场！数据中心晚交付一天，罚款500万美元",
           "url": "https://flash.jin10.com/detail/20261026120249406800",
           "source": "金十数据",
@@ -518,7 +525,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -540,7 +547,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -562,15 +569,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "随着AI行情降温 两支挂钩SK海力士的杠杆基金将在美国退市",
+          "url": "https://wallstreetcn.com/livenews/3185445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         }
       ]
     },
     {
       "keyword_group": "演唱会 综艺",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "肖战演唱会刚结束就回复了史彭元",
@@ -609,11 +627,12 @@
           "ranks": [
             24,
             19,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时23分 ~ 14时23分]"
+          "appearance_count": 7,
+          "time_info": "[12时23分 ~ 15时40分]"
         },
         {
           "title": "刘卓晒肖战南京演唱会大合照",
@@ -648,6 +667,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 05时25分]"
+        },
+        {
+          "title": "薛之谦贵阳演唱会炸出隐藏大神",
+          "url": "https://www.toutiao.com/trending/7700144957323477035/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "如何评价黄霄雲重庆演唱会?",
@@ -695,11 +725,12 @@
           "ranks": [
             5,
             3,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时21分 ~ 14时23分]"
+          "appearance_count": 8,
+          "time_info": "[11时21分 ~ 15时40分]"
         },
         {
           "title": "网友自制性转马尔福同人游戏",
@@ -712,8 +743,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 14时23分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 15时40分]"
         },
         {
           "title": "杨幂拉弓像从游戏里走出来",
@@ -746,7 +777,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -841,11 +872,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 14时23分]"
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 15时40分]"
         }
       ]
     }
